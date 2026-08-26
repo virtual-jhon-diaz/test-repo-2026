@@ -11,6 +11,7 @@
 /.nova
 /.phpunit.cache
 /.vscode
+/.vs
 /.zed
 /auth.json
 /node_modules
@@ -25,4 +26,3 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
-/.vs
